@@ -1,2 +1,4 @@
-for i in range(1,100):
-    print(i)
+name = 2
+while name < 20:
+  print(name)
+  name +=2
